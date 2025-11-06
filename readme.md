@@ -33,7 +33,7 @@ GROQ_KEY = "YOUR_GROQ_API_KEY"
 4. Run the app:
 
 ```bash
-streamlit run langgraph_app.py
+streamlit run langraph.py
 ```
 
 5. Open your browser at `http://localhost:8501`
@@ -45,5 +45,6 @@ streamlit run langgraph_app.py
 * View AI-generated results.
 
 ---
+
 
 
